@@ -1,0 +1,6 @@
+{
+  "name": "MAYA AI",
+  "description": "MAYA - Smart Bengali Voice & AI Assistant with speech recognition, text-to-speech, and Gemini intelligence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
